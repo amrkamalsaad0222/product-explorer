@@ -38,6 +38,4 @@ Then open http://localhost:3000.
 
 ## Live demo
 
-Coming soon.
-# product-explorer
-# product-explorer
+https://product-explorer-inky-two.vercel.app/
